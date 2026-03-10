@@ -32,12 +32,19 @@ This project reads those tags from the MP3 file and allows users to update them 
 ## 📂 Project Structure
 
 MP3_Tag_Radar/
+
 │
+
 ├── main.c # Main program entry point
+
 ├── read_tags.c # Functions to read MP3 tags
+
 ├── edit_tags.c # Functions to modify MP3 tags
+
 ├── tag_struct.h # Structure definitions
+
 ├── utils.c # Helper functions
+
 └── README.md # Project documentation
 
 ▶️ Usage
