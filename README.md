@@ -47,6 +47,8 @@ MP3_Tag_Radar/
 
 └── README.md # Project documentation
 
+
+
 ▶️ Usage
 
 
@@ -75,6 +77,7 @@ Comment
 ./mp3_tag_radar -e -t "New Title" song.mp3
 
 
+
 🧾 Editing Options
 
 | Option | Description  |
@@ -87,12 +90,17 @@ Comment
 | `-c`   | Edit Comment |
 
 
+
 Example:
 
 ./mp3_tag_radar -e -a "Arijit Singh" song.mp3
 
 
+
+
 📚 Learning Objectives
+
+
 
 This project helps in understanding:
 
