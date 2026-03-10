@@ -49,27 +49,26 @@ MP3_Tag_Radar/
 
 ▶️ Usage
 
+
 1️⃣ View MP3 Tag Information
 
 ./mp3_tag_radar -v song.mp3
 
+
 This will display metadata such as:
 
 Title
-
 Artist
-
 Album
-
 Year
-
 Content 
-
 Comment
+
 
 2️⃣ Edit MP3 Tag Information
 
 ./mp3_tag_radar -e -t "New Title" song.mp3
+
 
 🧾 Editing Options
 
@@ -82,20 +81,18 @@ Comment
 | `-g`   | Edit Genre   |
 | `-c`   | Edit Comment |
 
+
 Example:
 
 ./mp3_tag_radar -e -a "Arijit Singh" song.mp3
 
+
 📚 Learning Objectives
 
 This project helps in understanding:
-
 Internal structure of MP3 ID3 tags
-
 Binary file processing in C
-
 Command-line tool development
-
 Efficient data manipulation
 
 Practical use of structures and pointers
