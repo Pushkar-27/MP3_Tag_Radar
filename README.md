@@ -58,10 +58,15 @@ MP3_Tag_Radar/
 This will display metadata such as:
 
 Title
+
 Artist
+
 Album
+
 Year
+
 Content 
+
 Comment
 
 
@@ -90,9 +95,13 @@ Example:
 📚 Learning Objectives
 
 This project helps in understanding:
+
 Internal structure of MP3 ID3 tags
+
 Binary file processing in C
+
 Command-line tool development
+
 Efficient data manipulation
 
 Practical use of structures and pointers
